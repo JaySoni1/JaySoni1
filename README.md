@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first-year B.Tech student at Polaris School of Technology, specializing in Computer Science & AI/ML. Passionate about software development, AI, and innovation, I am always eager to explore new technologies and solve real-world problems.<br><br>In 2024, I had the incredible opportunity to be a Eureka Zonalist (IIT Bombay), which fueled my entrepreneurial mindset and problem-solving skills.<br><br>I am actively seeking opportunities to collaborate, learn, and grow in the fields of software engineering, AI, and startup ecosystems. Let’s connect and build something amazing! 🚀
+I am a second-year B.Tech student at Polaris School of Technology, specializing in Computer Science & AI/ML. Passionate about software development, AI, and innovation, I am always eager to explore new technologies and solve real-world problems.<br><br>In 2024, I had the incredible opportunity to be a Eureka Zonalist (IIT Bombay), which fueled my entrepreneurial mindset and problem-solving skills.<br><br>I am actively seeking opportunities to collaborate, learn, and grow in the fields of software engineering, AI, and startup ecosystems. Let’s connect and build something amazing! 🚀
 
 
 ## 🌐 Socials:
